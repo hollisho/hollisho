@@ -8,6 +8,6 @@
 
 **Skills:**
 
-Lavaral, Yii2, TP, Vue, Reqeust.js, Wordpress, Java, Python, C#, ...
+PHP, Vue, React, Next.js, Wordpress, Java, Python, C#, Golang, ...
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollisho&layout=compact&theme=transparent&hide_border=true" />
